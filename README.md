@@ -50,7 +50,7 @@
 <h2 align="center"> 📈 <em>Estadísticas y Contacto</em> </h2>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=killmasterMC&theme=algolia&hide_border=true" alt="Estadísticas de GitHub">
+  <img height="180" src="https://streak-stats.demolab.com/?user=killmasteron&theme=algolia&hide_border=true" alt="Estadísticas de GitHub">
   <a href="https://discord.com/users/1092081738513133598"><img src="https://lanyard.cnrad.dev/api/1092081738513133598" /></a>
 </p>
 
